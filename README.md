@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JCoffeeYP
-- 🌱 I’m currently learning Python, Django and DRF, C, Kubernetes technology
+- 🌱 I’m currently learning Python, Django and DRF, FastAPI, C technology
 - 📫 How to reach me: Telegram (@nik_isv)
 
 <!---
