@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JCoffeeYP
-- 🌱 I’m currently learning Python, Django and DRF, FastAPI, C technology
+- 🌱 Python developer at Sber
 - 📫 How to reach me: Telegram (@nik_isv)
 
 <!---
